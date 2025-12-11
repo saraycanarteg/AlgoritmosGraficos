@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe.config
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\bin\Debug\Algoritmos.pdb
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\obj\Debug\Algoritmos.exe
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\obj\Debug\Algoritmos.pdb
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\obj\Debug\Algoritmos.exe.config
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FormularioCirculo.resources
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Menu.resources
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FormularioRecorte.resources
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FormularioLineas.resources
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\obj\Debug\AlgoritmoRelleno.FormularioRelleno.resources
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\Algoritmos\Algoritmos\obj\Debug\Algoritmos.FormRecorteLineas.resources
