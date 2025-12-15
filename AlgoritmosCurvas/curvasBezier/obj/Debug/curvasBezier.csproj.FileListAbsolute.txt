@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\bin\Debug\curvasBezier.exe.config
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\bin\Debug\curvasBezier.exe
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\bin\Debug\curvasBezier.pdb
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\obj\Debug\curvasBezier.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\obj\Debug\curvasBezier.Menu.resources
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\obj\Debug\curvasBezier.Properties.Resources.resources
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\obj\Debug\curvasBezier.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\obj\Debug\curvasBezier.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\obj\Debug\curvasBezier.exe
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\obj\Debug\curvasBezier.pdb
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\obj\Debug\curvasBezier.exe.config
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\obj\Debug\curvasBezier.FormBezierLineal.resources
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\obj\Debug\curvasBezier.FormBezierCuadratico.resources
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\obj\Debug\curvasBezier.FormBezierCubica.resources
+C:\Users\Usuario\Desktop\QuintoSemestre\grafica\curvasBezier\curvasBezier\obj\Debug\curvasBezier.FormBSpline.resources
